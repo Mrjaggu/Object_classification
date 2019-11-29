@@ -1,0 +1,3 @@
+# drive link to download resnet model
+
+https://drive.google.com/open?id=1gcNiwLTGLuTI0mmeyCCw74gBUU0teZGi
