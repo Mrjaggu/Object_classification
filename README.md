@@ -15,7 +15,7 @@ types.<br>
 
 ## Trained Model download link
 
-1. Vgg16 [https://drive.google.com/open?id=1t1twM-v4jpiacL5UTh-th0HEd55G7-aK] <br>
+1. Vgg16 [link](https://drive.google.com/open?id=1t1twM-v4jpiacL5UTh-th0HEd55G7-aK) <br>
 2. Vgg19 [https://drive.google.com/open?id=1wyK4BfBNhy7SDVfMWRxB8hlmdJTomLd5] <br>
 3. ResNet [https://drive.google.com/open?id=1gcNiwLTGLuTI0mmeyCCw74gBUU0teZGi] <br>
 4. Final best Model [https://drive.google.com/open?id=1wyK4BfBNhy7SDVfMWRxB8hlmdJTomLd5]
