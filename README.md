@@ -32,8 +32,8 @@ types.<br>
 # Task 2
 
 ## Download data
-1. Image fearure [https://drive.google.com/open?id=1XdPlI4o0KojNJq68T8KVMnoeJ3x8eBP4]
-2. Image label [https://drive.google.com/open?id=1imZlhYykWkHnMzxL8Ec7qIvrDtziDDkG]
+1. Image fearure  [ [link] ](https://drive.google.com/open?id=1XdPlI4o0KojNJq68T8KVMnoeJ3x8eBP4)
+2. Image label [ [link] ](https://drive.google.com/open?id=1imZlhYykWkHnMzxL8Ec7qIvrDtziDDkG)
 3. Dress data - Folder Data
 
 ## "Given a random query image we need to return the similar products.”
