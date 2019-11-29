@@ -1,2 +1,2 @@
-# link to download vgg19 model
+# drive link to download vgg19 model 
 https://drive.google.com/open?id=1wyK4BfBNhy7SDVfMWRxB8hlmdJTomLd5
